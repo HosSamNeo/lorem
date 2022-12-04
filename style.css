@@ -462,3 +462,17 @@ header .links ul li a {
     color: var(--secondary-color);
 }
 /* End contact  */
+
+/* start footer  */
+.footer {
+    background-color: var(--secondary-color);
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding: 30px 10px;
+}
+
+.footer span {
+    color: var(--main-color);
+}
+/* end footer  */
